@@ -1,0 +1,1 @@
+docker run -p 1010:1010 -p 50000:50000 -d -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts
